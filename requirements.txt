@@ -1,0 +1,6 @@
+boto3
+awscli
+streamlit
+faiss-cpu
+numpy
+sentence-transformers
