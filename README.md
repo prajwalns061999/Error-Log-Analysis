@@ -139,7 +139,7 @@ You can customize:
 
 ### Folder Structure
 ```bash
-debugdeck-log-analysis/
+Error-Log-Analysis/
 │
 ├── lambda_function.py            # Lambda logic that generates logs
 ├── logAnalysisOnBedrock.py       # Log analyzer and Streamlit UI
