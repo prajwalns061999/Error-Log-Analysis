@@ -134,7 +134,7 @@ The app will open in your browser with:
 ### 🔧 Configuration
 You can customize:
    - Log Group Name: Edit log_group_name in logAnalysisOnBedrock.py
-   - 2. Applications List: Modify APPLICATION_NAMES list
+   - Applications List: Modify APPLICATION_NAMES list
    - Bedrock Model: Uses amazon.titan-text-premier-v1:0
 
 ### Folder Structure
