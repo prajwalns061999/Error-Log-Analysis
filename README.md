@@ -113,7 +113,7 @@ Input your:
 Note: Your IAM user must have permissions for CloudWatch, Lambda, and Bedrock.
 
 ### 🧪 Step 6: Run the Streamlit Application
-Create a new file logAnalysisOnBedrock.py in the project directory and the copy the given code.
+Create a new file **logAnalysisOnBedrock.py** in the project directory and the copy the given code.
 In the project directory:
 ```bash
 streamlit run logAnalysisOnBedrock.py
